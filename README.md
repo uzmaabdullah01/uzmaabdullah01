@@ -2,7 +2,7 @@
 I have a strong blend of advanced 
 quantitative research, machine learning expertise, and real industry project experience. 
 
-I earned my ## PhD in International Economics, specializing in international trade and high-technology exports, with published research available on ResearchGate.
+I earned my PhD in International Economics, specializing in international trade and high-technology exports, with published research available on ResearchGate.
 I have been engaged three years in university education as an Assistant Professor for teaching 
 Micro Economics, Macro Economics, Statistics and Managerial Economics and conducted 
 Viva for MS students. I worked as Regional Economist in UNWFP and performed Cost-Benefit Analysis for major projects in Africa.
