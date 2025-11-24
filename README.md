@@ -8,7 +8,7 @@ I hold a **PhD in International Economics**, specializing in **international tra
 ## Research & Publications
 
 ### **PhD Thesis:**  
-**"Factors Transforming High-Tech Exports in Developing Economies"**  
+**"Determinants of High-Tech Exports in OIC Countries"**  
 A comprehensive empirical analysis investigating the drivers of technological export performance, incorporating econometric modelling, innovation indicators, market readiness, and macroeconomic competitiveness.
 
 ### ** Published Research Paper:**  
