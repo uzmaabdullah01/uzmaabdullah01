@@ -47,9 +47,11 @@ Worked as a Student Consultant on a real commercial real-estate investment portf
 
 - **PhD in International Economics** — High-Tech Exports Research  
 - **MS Computer Science (Candidate)** — Boston University  
-- **Professional Certificate in Applied Data Science — MIT- USA**  
+- **Professional Education Certificate in Applied Data Science By Leverging AI — MIT- USA**  
   Courses include Machine Learning, Neural Networks, Predictive Analytics, Statistics, Data Engineering, and Cloud-based AI  
-- **Foundations of Computer Information Systems Certificate — Boston University-USA**  
+- **Foundations of Computer Information Systems Certificate— Boston University-USA**
+- **Foundation of Statistics**
+- **Core of Mathematical Concepts**
   Strong fundamentals in Java, SQL, systems analysis, databases, and computer systems
 - **Certificate In Introduction to Artifical Intelligence on Cloud-Great Leraning**
 
@@ -58,7 +60,7 @@ Worked as a Student Consultant on a real commercial real-estate investment portf
 ## Technical Expertise
 
 **Data Science & ML:** Python, NumPy, Pandas, Scikit-learn, Statsmodels, Matplotlib, Seaborn  
-**Databases & Cloud:** SQL, Hive, CloudxLab, JupyterLab  
+**Databases & Cloud:** SQL, Hive, CloudxLab, JupyterLab, Cursor, Google Colab
 **Machine Learning:** Regression, Decision Trees, Random Forest, Feature Engineering, EDA  
 **Financial Modeling:** IRR, Cash-Flow Modeling, Forecasting, Sensitivity Analysis  
 **Econometrics:** Panel Data, OLS, VIF, Hypothesis Testing, Time-Series  
