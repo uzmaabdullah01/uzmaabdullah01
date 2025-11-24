@@ -71,7 +71,7 @@ Worked as a Student Consultant on a real commercial real-estate investment portf
 
 - **Used Cars Price Prediction — ML Capstone**  
 - **Boston Housing Price Prediction — MIT Elective**  
-- **FoodHub Orders Data Analysis**  
+- **FoodHub Orders Data Analysis-Python and Statistice**
 - **Commercial Real Estate Financial Analysis — IRR Portfolio Project**  
 - **High-Tech Exports Econometric Research (PhD)**
 
