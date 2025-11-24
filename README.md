@@ -5,20 +5,20 @@ I hold a **PhD in International Economics**, specializing in **international tra
 
 ---
 
-## 🧪 Research & Publications
+## Research & Publications
 
-### **📘 PhD Thesis:**  
+### **PhD Thesis:**  
 **"Factors Transforming High-Tech Exports in Developing Economies"**  
 A comprehensive empirical analysis investigating the drivers of technological export performance, incorporating econometric modelling, innovation indicators, market readiness, and macroeconomic competitiveness.
 
-### **📄 Published Research Paper:**  
+### ** Published Research Paper:**  
 - *Factors Transforming High-Tech Exports* — Available on ResearchGate  
 - Focuses on innovation capabilities, industrial policy, technology adoption, and global trade performance  
 - Uses advanced econometric modeling, panel data analysis, and economic indicators to measure global competitiveness
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 ### **🔹 Regional Economist — United Nations World Food Programme (UNWFP)**  
 Conducted **Cost–Benefit Analysis** and **regional economic assessments** for major humanitarian and development projects across Africa.  
@@ -43,7 +43,7 @@ Worked as a Student Consultant on a real commercial real-estate investment portf
 
 ---
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
 - **PhD in International Economics** — High-Tech Exports Research  
 - **MS Computer Science (Candidate)** — Boston University  
@@ -55,7 +55,7 @@ Worked as a Student Consultant on a real commercial real-estate investment portf
 
 ---
 
-## 🛠 Technical Expertise
+## Technical Expertise
 
 **Data Science & ML:** Python, NumPy, Pandas, Scikit-learn, Statsmodels, Matplotlib, Seaborn  
 **Databases & Cloud:** SQL, Hive, CloudxLab, JupyterLab  
@@ -67,7 +67,7 @@ Worked as a Student Consultant on a real commercial real-estate investment portf
 
 ---
 
-## 🔬 Key Projects
+## Key Projects
 
 - **Used Cars Price Prediction — ML Capstone**  
 - **Boston Housing Price Prediction — MIT Elective**  
