@@ -51,7 +51,7 @@ Worked as a Student Consultant on a real commercial real-estate investment portf
   Courses include Machine Learning, Neural Networks, Predictive Analytics, Statistics, Data Engineering, and Cloud-based AI  
 - **Foundations of Computer Information Systems Certificate — Boston University-USA**  
   Strong fundamentals in Java, SQL, systems analysis, databases, and computer systems
-- **Certificate In Introduction to Artifical Intelligence on Cloud-Great Leraning
+- **Certificate In Introduction to Artifical Intelligence on Cloud-Great Leraning**
 
 ---
 
