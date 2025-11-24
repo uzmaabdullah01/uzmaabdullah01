@@ -28,4 +28,4 @@ analytics roles.
 Across my projects, I combine economic reasoning, statistical modeling, and machine 
 learning to deliver insights that support business strategy, pricing optimization, financial 
 forecasting, and operational decision-making. I bring a rare combination of academic 
-credibility, technical depth, and practical problem-solving, making me a strong fit for data￾driven roles in technology, finance, consulting, research, real estate, and policy.
+credibility, technical depth, and practical problem-solving, making me a strong fit for data driven roles in technology, finance, consulting, research, real estate, and policy.
