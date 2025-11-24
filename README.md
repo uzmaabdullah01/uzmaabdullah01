@@ -54,6 +54,7 @@ Worked as a Student Consultant on a real commercial real-estate investment portf
 - **Core of Mathematical Concepts**
   Strong fundamentals in Java, SQL, systems analysis, databases, and computer systems
 - **Certificate In Introduction to Artifical Intelligence on Cloud-Great Leraning**
+- **Certificate In Mastering Big Data Analytics-Great Learning**
 
 ---
 
