@@ -50,8 +50,8 @@ Worked as a Student Consultant on a real commercial real-estate investment portf
 - **Professional Education Certificate in Applied Data Science By Leverging AI — MIT- USA**  
   Courses include Machine Learning, Neural Networks, Predictive Analytics, Statistics, Data Engineering, and Cloud-based AI  
 - **Foundations of Computer Information Systems Certificate— Boston University-USA**
-- **Foundation of Statistics**
-- **Core of Mathematical Concepts**
+- **Foundation of Statistics-Boston University**
+- **Core of Mathematical Concepts-Boston University**
   Strong fundamentals in Java, SQL, systems analysis, databases, and computer systems
 - **Certificate In Introduction to Artifical Intelligence on Cloud-Great Leraning**
 - **Certificate In Mastering Big Data Analytics-Great Learning**
