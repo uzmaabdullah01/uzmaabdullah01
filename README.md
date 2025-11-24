@@ -83,7 +83,9 @@ Worked as a Student Consultant on a real commercial real-estate investment portf
 ## 🌐 Connect with Me
 
 **LinkedIn:** https://www.linkedin.com/in/uzma-abdullah  
+
 **GitHub:** https://github.com/uzmaabdullah01  
+
 **Research gate:**
 https://www.researchgate.net/publication/305710293_Factors_Transforming_High-Tech_Exports_from_OICs
 
