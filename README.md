@@ -70,6 +70,11 @@ Worked as a Student Consultant on a real commercial real-estate investment portf
 
 ---
 
+## Hands-On experience
+
+I have hands-on experience with Python, SQL, and Excel for data analysis, statistical modeling, and machine learning. I regularly use libraries such as Pandas, NumPy, Scikit-learn, Matplotlib, and Seaborn, and I have built end-to-end analytical projects including data cleaning, feature engineering, predictive modeling, and visualization. I also have experience with Jupyter Notebook, Google Colab, and cloud-based tools like Hive and Spark. Additionally, I am comfortable working with data structures, APIs, version control (GitHub), and preparing professional analytical reports in Excel and Power BI.
+
+
 ## Key Projects
 
 - **Used Cars Price Prediction — ML Capstone**  
