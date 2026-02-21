@@ -4,7 +4,7 @@ I am a PhD in International Economics and MIT-certified Applied Data Scientist w
 
 My research and professional work focus on high-technology exports, trade competitiveness, economic forecasting, cost benefit analysis and data-driven decision-making. I specialize in advanced econometric modeling (OLS, Instrumental Variables, panel data, GLS, Bayesian methods) alongside predictive machine learning techniques including regression regularization, ensemble methods, cross-validation, and time-series forecasting.
 
-As a Regional Economist with the UNWFP I conducted infrastructure impact assessments and cost-benefit analysis to support food security and regional economic development. I have also served as Assistant Professor teaching Econometrics, Statistical Inference, and Microeconomics, mentoring graduate research and guiding empirical thesis work to University students.
+As a Regional Economist with the UNWFP I conducted infrastructure impact assessments and cost-benefit analysis to support food security and regional economic development. I have also served as Assistant Professor teaching Econometrics, Statistical Inference, Managerial Economics and Microeconomics, mentoring graduate research and guiding empirical thesis work to University students.
 
 Through the MIT Applied Data Science Program and ongoing MS in Applied Data Analytics at Boston University, I have expanded my expertise into AI-driven analytics, deep learning (CNNs, Transformers), big data (Spark, Hive), and cloud-based ML deployment.
 
