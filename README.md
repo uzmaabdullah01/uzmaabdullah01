@@ -1,7 +1,17 @@
 # Dr. Uzma Abdullah, PhD — Economist, Machine Learning Analyst, and Data Scientist
 
-I bring a rare blend of advanced quantitative research, machine learning expertise, and real-world project experience.  
-I hold a **PhD in International Economics**, specializing in **international trade and high-technology exports**, with published research available on ResearchGate. I have three years of university-level teaching experience as an **Assistant Professor**, teaching Microeconomics, Macroeconomics, Statistics, and Managerial Economics, and guiding MS students through research and Viva examinations.
+I am a PhD-trained International Economist and MIT-certified Applied Data Scientist with expertise at the intersection of econometrics, machine learning, and policy analytics.
+
+My research and professional work focus on high-technology exports, trade competitiveness, economic forecasting, and data-driven decision-making. I specialize in advanced econometric modeling (OLS, IV, panel data, GLS, Bayesian methods) alongside predictive machine learning techniques including regression regularization, ensemble methods, cross-validation, and time-series forecasting.
+
+As a Regional Economist with the UN World Food Programme, I conducted infrastructure impact assessments and cost-benefit analysis to support food security and regional economic development. I have also served as Assistant Professor teaching Econometrics, Statistical Inference, and Microeconomics, mentoring graduate research and guiding empirical thesis work.
+
+Through the MIT Applied Data Science Program and ongoing MS in Applied Data Science at Boston University, I have expanded my expertise into AI-driven analytics, deep learning (CNNs, Transformers), big data (Spark, Hive), and cloud-based ML deployment.
+
+I operate at the intersection of economics and AI — combining causal rigor with predictive power to support strategic policy, development initiatives, and financial decision-making.
+
+Open to roles in economic policy, applied econometrics, AI-driven analytics, and strategic data science.
+
 
 ---
 
