@@ -1,6 +1,6 @@
 # Dr. Uzma Abdullah, PhD — Economist, Machine Learning Analyst, and Data Scientist
 
-I hold PhD degree in International Economics and MIT-certified Applied Data Scientist with expertise at the intersection of econometrics, machine learning, and policy analytics with more thanseven years of experience.
+I hold PhD degree in International Economics and MIT Professional Development Certification as Applied Data Scientist leverging AI with expertise at the intersection of econometrics, machine learning, and policy analytics with more thanseven years of experience.
 
 My research and professional work focus on high-technology exports, trade competitiveness, economic forecasting, cost benefit analysis and data-driven decision-making. I specialize in advanced econometric modeling (OLS, Instrumental Variables, panel data, GLS, Bayesian methods) alongside predictive machine learning techniques including regression regularization, ensemble methods, cross-validation, and time-series forecasting.
 
